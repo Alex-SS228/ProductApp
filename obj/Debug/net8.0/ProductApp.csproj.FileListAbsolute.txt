@@ -1,0 +1,14 @@
+F:\ПРАКТИКА СИМАНОВИЧ\bin\Debug\net8.0\ProductApp.exe
+F:\ПРАКТИКА СИМАНОВИЧ\bin\Debug\net8.0\ProductApp.deps.json
+F:\ПРАКТИКА СИМАНОВИЧ\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+F:\ПРАКТИКА СИМАНОВИЧ\bin\Debug\net8.0\ProductApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\bin\Debug\net8.0\ProductApp.pdb
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\refint\ProductApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.pdb
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ref\ProductApp.dll
