@@ -1,6 +1,7 @@
+// Практическая работа №1. Вариант 5 - Изделие
 namespace ProductApp
 {
-    class Product
+    class Productы
     {
         // Атрибуты класса «Изделие»
         public string Name;      // наименование

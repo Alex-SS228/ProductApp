@@ -12,3 +12,4 @@ F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\refint\ProductApp.dll
 F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.pdb
 F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
 F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ref\ProductApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\obj\Debug\net8.0\ProductApp.sourcelink.json
