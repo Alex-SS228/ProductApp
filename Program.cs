@@ -14,15 +14,6 @@ namespace ProductApp
             Code = "000";
             Quantity = 0;
         }
-
-        // Конструктор с параметрами
-        public Product(string name, string code, int quantity)
-        {
-            Name = name;
-            Code = code;
-            Quantity = quantity;
-        }
-
         // Метод для вывода информации об изделии
         public override string ToString()
         {
