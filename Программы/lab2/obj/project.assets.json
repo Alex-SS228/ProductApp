@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ПРАКТИКА СИМАНОВИЧ\\ProductApp.csproj",
-      "projectName": "ProductApp",
-      "projectPath": "F:\\ПРАКТИКА СИМАНОВИЧ\\ProductApp.csproj",
+      "projectUniqueName": "F:\\ПРАКТИКА СИМАНОВИЧ\\Программы\\lab2\\AnimalApp.csproj",
+      "projectName": "AnimalApp",
+      "projectPath": "F:\\ПРАКТИКА СИМАНОВИЧ\\Программы\\lab2\\AnimalApp.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "F:\\ПРАКТИКА СИМАНОВИЧ\\obj\\",
+      "outputPath": "F:\\ПРАКТИКА СИМАНОВИЧ\\Программы\\lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\bin\Debug\net8.0\AnimalApp.exe
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\bin\Debug\net8.0\AnimalApp.deps.json
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\bin\Debug\net8.0\AnimalApp.runtimeconfig.json
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\bin\Debug\net8.0\AnimalApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\bin\Debug\net8.0\AnimalApp.pdb
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.AssemblyInfoInputs.cache
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.AssemblyInfo.cs
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.csproj.CoreCompileInputs.cache
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.sourcelink.json
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\refint\AnimalApp.dll
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.pdb
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\AnimalApp.genruntimeconfig.cache
+F:\ПРАКТИКА СИМАНОВИЧ\Программы\lab2\obj\Debug\net8.0\ref\AnimalApp.dll
